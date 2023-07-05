@@ -119,6 +119,7 @@ section.main {
 
 section.sobre {
   padding: 30px 0;
+  text-align: center;
 }
 
 .chamada-sobre {
@@ -135,10 +136,6 @@ section.sobre {
   font-size: 14px;
   margin: 10px 0;
   text-align: center;
-}
-
-.conteudo-sobre {
-  display: flex;
 }
 
 .conteudo-sobre p {
